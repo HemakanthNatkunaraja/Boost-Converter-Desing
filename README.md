@@ -23,7 +23,7 @@ The project report provides detailed theoretical analysis, design equations, and
 ## **Simulation Files**
 The repository includes simulation files for the boost converter. These files are designed for LTspice and simulate the converter's behavior under different input conditions.
 
-- 📁 **[LTspice Simulation Files](link-to-simulation-folder)**
+- 📁 **[LTspice Simulation Files](https://github.com/HemakanthNatkunaraja/Boost-Converter-Desing/blob/main/project_10Vsupply.asc)
 
 The following simulations are provided:
 1. **Input Voltage: 10V**  
