@@ -5,7 +5,7 @@ This repository contains the design, theoretical analysis, and simulation files 
 ---
 
 ## **Contents**
-- [Project Report](#project-report)
+- [Project Report]([#project-report](https://github.com/HemakanthNatkunaraja/Boost-Converter-Desing/blob/main/Boost%20converter%20design.pdf))
 - [Simulation Files](#simulation-files)
 - [Software Requirements](#software-requirements)
 - [How to Use](#how-to-use)
