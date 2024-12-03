@@ -7,7 +7,7 @@ This repository contains the design, theoretical analysis, and simulation files 
 ## **Contents**
 - [Project Report](https://github.com/HemakanthNatkunaraja/Boost-Converter-Desing/blob/main/Boost%20converter%20design.pdf)
 - [Simulation File_1](https://github.com/HemakanthNatkunaraja/Boost-Converter-Desing/blob/main/project_10Vsupply.asc)
-- [Simulation File_2](https://github.com/HemakanthNatkunaraja/Boost-Converter-Desing/blob/main/project_10Vsupply.asc)
+- [Simulation File_2](https://github.com/HemakanthNatkunaraja/Boost-Converter-Desing/blob/main/project_15Vsupply.asc)
 - [Software Requirements](#software-requirements)
 - [How to Use](#how-to-use)
 
